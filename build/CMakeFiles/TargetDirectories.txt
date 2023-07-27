@@ -1,0 +1,5 @@
+/home/ilia53/Desktop/DFS/build/CMakeFiles/edit_cache.dir
+/home/ilia53/Desktop/DFS/build/CMakeFiles/rebuild_cache.dir
+/home/ilia53/Desktop/DFS/build/CMakeFiles/libdfs.dir
+/home/ilia53/Desktop/DFS/build/CMakeFiles/minion.dir
+/home/ilia53/Desktop/DFS/build/CMakeFiles/master.dir
